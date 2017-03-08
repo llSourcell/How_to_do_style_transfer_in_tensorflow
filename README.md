@@ -11,6 +11,8 @@ This is the code for [this](https://youtu.be/Oex0eWoU7AQ) video on Youtube by Si
 * matplotlib 
 * python 3
 
+Use [pip](https://pip.pypa.io/en/stable/installing/) to install missing dependencies
+
 ##Usage
 
 Run `jupyter notebook` in the top level directory and the code will pop up in your browser.
